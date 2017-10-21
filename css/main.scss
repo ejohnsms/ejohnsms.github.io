@@ -4,8 +4,11 @@
 ---
 
 @import "menu";
+@import "blog";
+@import "navigation";
 
-.content {
-  width: 80%;
-  margin: 0 auto;
+.container {
+  width: 50%;
+  margin-left: 35%;
+  margin-right: 15%;
 }

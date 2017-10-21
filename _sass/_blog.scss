@@ -1,0 +1,31 @@
+.side-bar {
+
+}
+
+.blog-wrapper {
+
+
+  .post {
+    background-color: #fff;
+    line-height: 15px;
+    padding: 10px;
+    position: relative;
+  }
+
+  .post img {
+    max-width: 500px;
+  }
+
+  .post .title {
+    color: #494949;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 10px 0 10px;
+  }
+
+  .post .date {
+    color: #666;
+    font-size: 10px;
+  }
+
+}
